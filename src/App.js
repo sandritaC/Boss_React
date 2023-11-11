@@ -80,6 +80,7 @@ function App() {
             <div className="App login-2 d-flex j-center a-center col">
                 <div className="d-flex col  ">
                     <h1>FakeBook</h1>
+                    <p>uuuu</p>
                     <Switch>
                         {isLoggedIn ? (
                             <div className=" d-flex j-center ">
